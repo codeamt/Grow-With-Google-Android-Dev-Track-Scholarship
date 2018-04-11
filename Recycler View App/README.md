@@ -6,10 +6,10 @@ A sample app demonstrating the mechanics behind a commonly used View pattern (Re
 
 ## Learning Objective(s):
 
-	- [x] Create a Recycler View in a Linear Layout 
-	- [x] Create a List Item Layout and View Holder
-  - [x] Create a Recycler View in a Linear Layout
-  - [x] Create a List Item Layout and View Holder 
+- [x] Create a Recycler View in a Linear Layout 
+- [x] Create a List Item Layout and View Holder
+- [x] Create a Recycler View in a Linear Layout
+- [x] Create a List Item Layout and View Holder 
 
 ## Best Practices and Takeaways 
 
