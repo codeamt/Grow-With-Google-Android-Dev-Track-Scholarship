@@ -1,7 +1,7 @@
 ## ToDo App 
 This sample app puts a slight twist on the traditional "ToDo List" app by enabling end users to prioritize the tasks on their list.   
 
-![Green App Demo](https://user-images.githubusercontent.com/7875284/38591485-f12be14e-3d04-11e8-8487-cd2625b861d9.gif)
+![Green App Demo](https://ucarecdn.com/3a0176be-802c-426f-bdc5-679326d55aa5/)
 
 ## Learning Objective(s):
 
