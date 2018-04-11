@@ -1,7 +1,7 @@
 ## Water Hydration App  
 This sample app helps users live their best life by scheduling and sending notifications to drink a glass of water within a specified time interval (15 minutes), if their phone is charging   
 
-![Green App Demo](https://user-images.githubusercontent.com/7875284/38591485-f12be14e-3d04-11e8-8487-cd2625b861d9.gif)
+![Green App Demo](https://ucarecdn.com/40a04542-ab73-4c0f-87c3-d82f7b65820f/)![Green App Demo](https://ucarecdn.com/58b32250-fa18-4c9c-9757-b9e5a06049d8/)
 
 ## Learning Objective(s):
 
