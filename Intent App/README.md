@@ -3,7 +3,7 @@
 This sample app uses a clean linear layout to provide users a way to handle every day activities, like: visiting an external site, sharing content, opening a map, and sending an email.
  
 
-![Green App Demo](https://user-images.githubusercontent.com/7875284/38591485-f12be14e-3d04-11e8-8487-cd2625b861d9.gif)
+![img1](https://ucarecdn.com/03218969-3878-4e91-beea-64932cc36fdf/)![img2](https://ucarecdn.com/26b32463-1ce7-426e-b20b-08adec5a17d4/)![img3](https://ucarecdn.com/f227b1b5-6c45-4552-a47b-8fad80d6b0f5/)
 
 ## Learning Objective(s):
 
