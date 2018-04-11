@@ -17,7 +17,7 @@ The app pulls weather data from an external API using a content provider interfa
 
 ## User Story Map
 
-![Sunshine User Map](https://ucarecdn.com/07294e20-50a9-48cc-9cbb-64900547c454/)
+![Sunshine User Map](https://ucarecdn.com/cb2485d3-f131-4337-86c9-9d9c1a17d813/)
 
 
 ## App Dependencies: 
