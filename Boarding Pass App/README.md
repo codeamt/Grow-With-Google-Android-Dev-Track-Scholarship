@@ -1,7 +1,7 @@
 ## Boarding Pass App  
 The toy app from this sprint is a clean Boarding Pass app to explore concepts like responsiveness and accessibility.
 
-![Green App Demo](https://ucarecdn.com/281238ab-e247-4de1-adda-0fe0c4fbc402/)![Green App Demo](https://ucarecdn.com/e7386950-e4f8-4a9c-9efc-2383dd142e56/)
+<img src="https://ucarecdn.com/281238ab-e247-4de1-adda-0fe0c4fbc402/" width="250px" height="400px"><img src="https://ucarecdn.com/e7386950-e4f8-4a9c-9efc-2383dd142e56/" width="400px" height="250px">
 
 ## Learning Objective(s):
 
