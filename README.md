@@ -1,4 +1,6 @@
-# (Grow With Google) Google Udacity Scholarship - Android Development Track
+<h1 align="center">Google/Udacity Scholarship - Android Development Track</h1>
+<h1 align="center">Grow With Google Developer Challenge</h1>
+
 <p align="center">Course deliverables from the Google Udacity Scholarship for Android Developers.</p>
 
 <p align="center">
