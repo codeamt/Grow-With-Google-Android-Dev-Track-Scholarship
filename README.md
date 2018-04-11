@@ -6,21 +6,21 @@
 </p>
 
 ## About the Challenge Course
-The Grow With Google Course, in partnership with Udacity, presented a 3 month challenge to complete 13 lessons, 10 sample apps and a final Capstone App project, entitled Sunshine. Throughout the process, we received mentorship TAs and moral encouragement from fellow classmates in our our course Slack.
+The [Grow With Google](https://grow.google/developers/) Course, in partnership with Udacity, presented a 3 month challenge to complete 13 lessons, 10 sample apps and a final Capstone App project, entitled Sunshine. Throughout the process, we received mentorship TAs and moral encouragement from fellow classmates in our our course Slack channel.
 
 To view course deliverelables, visit the linked repositories below.
 
 
 ## Sample Apps
-1.  Recycler View App
-2.  Intent App
-3.  Github Query App
-4.  Music Visualizer App
-5.  Waitlist App
-6.  Droid Study App
-7.  ToDo App
-8.  Water Hydration App
-9.  Boarding Pass App
-10. Style Guide App
+1.  [Recycler View App](https://grow.google/developers/)
+2.  [Intent App](https://grow.google/developers/)
+3.  [Github Query App](https://grow.google/developers/)
+4.  [Music Visualizer App](https://grow.google/developers/)
+5.  [Waitlist App](https://grow.google/developers/)
+6.  [Droid Study App](https://grow.google/developers/)
+7.  [ToDo App](https://grow.google/developers/)
+8.  [Water Hydration App](https://grow.google/developers/)
+9.  [Boarding Pass App](https://grow.google/developers/)
+10. [Style Guide App](https://grow.google/developers/)
 
 ## Capstone Project: Sunshine App
