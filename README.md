@@ -1,5 +1,5 @@
 # (Grow With Google) Google Udacity Scholarship - Android Development Track
-Course deliverables from the Google Udacity Scholarship for Android Developers.
+<p align="center">Course deliverables from the Google Udacity Scholarship for Android Developers.</p>
 
 <p align="center">
   <img src="http://bsft.io/x/qej8cn?uid=41c82f6d-b119-4efd-96d1-bdd6d12d0d04&mid=71bc16dc-ecd8-4745-84dd-b637289091e0&txnid=47d38ef5-bd0a-4e05-b0e9-385b572f8bd1" width="300" height="300" title="Google Udacity Scholarship Badge" >
