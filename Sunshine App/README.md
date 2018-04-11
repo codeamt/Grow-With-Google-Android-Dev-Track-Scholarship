@@ -1,24 +1,36 @@
-# (Grow With Google) Google Udacity Scholarship - Android Development Track
-Course deliverables from the Google Udacity Scholarship for Android Developers.
+# Sunshine App: Course Capstone Project  
+The app pulls weather data from an external API using a content provider interface built from scratch. A two-week forecast provides ample time to plan for inclement and beautiful weather, and daily forecasts go deeper into weather details such as barometric pressure, precipitation, etc. Lastly, to make temperature data more accessible to international and domestic users, alike, the app offers end users the option of changing their location and temperature scale to preference. (See user story below.) 
 
-![Grow With Google Scholarship Badge](http://bsft.io/x/qej8cn?uid=41c82f6d-b119-4efd-96d1-bdd6d12d0d04&mid=71bc16dc-ecd8-4745-84dd-b637289091e0&txnid=47d38ef5-bd0a-4e05-b0e9-385b572f8bd1 =350x350)
+![Green App Demo](https://user-images.githubusercontent.com/7875284/38591485-f12be14e-3d04-11e8-8487-cd2625b861d9.gif)
 
-## About the Challenge Course
-The Grow With Google Course, in partnership with Udacity, presented a 3 month challenge to complete 13 lessons, 10 sample apps and a final Capstone App project, entitled Sunshine. Throughout the process, we received mentorship TAs and moral encouragement from fellow classmates in our our course Slack.
+## Learning Objective(s):
 
-To view course deliverelables, visit the linked repositories below.
+- [x] Connecting to the Internet (Sprint 3)
+- [x] Implement a Recycler View (Sprint 4) 
+- [x] Add Intents for Actions (Sprint 5)
+- [x] Use Loader Pattern to Persist Data (Sprint 6)
+- [x] Implement A User Settings Page (Sprint 7)
+- [x] Implement DB helper class to Instantiate SQLite Database (Sprint 8) 
+- [x] Build and Register a Content Provider (Sprints 9 + 10)
+- [x] Create and schedule Background Tasks (Sprint 11)
+- [x] Complete and polish the app UI (Sprints 12 + 13)
+
+## User Story Map
+
+![Sunshine User Map](https://ucarecdn.com/07294e20-50a9-48cc-9cbb-64900547c454/)
 
 
-## Sample Apps
-1.  Recycler View App
-2.  Intent App
-3.  Github Query App
-4.  Music Visualizer App
-5.  Waitlist App
-6.  Droid Study App
-7.  ToDo App
-8.  Water Hydration App
-9.  Boarding Pass App
-10. Style Guide App
+## App Dependencies: 
+-	'com.android.support:appcompat-v7:25.1.0'
+-	'com.android.support:recyclerview-v7:25.0.1'
+-	'com.android.support:preference-v7:25.0.1'
+-	'com.android.support.constraint:constraint-layout:1.0.0-beta3'
+-	'com.firebase:firebase-jobdispatcher:0.5.0'
 
-## Capstone Project: Sunshine App
+## Unit Testing Dependencies: 
+-	‘junit:junit:4.12’ (test compiling)
+-	'com.android.support:support-annotations:25.1.0'
+-	'com.android.support.test:runner:0.5'
+-	'com.android.support.test:rules:0.5'
+
+**Target SDK Version:** 25
