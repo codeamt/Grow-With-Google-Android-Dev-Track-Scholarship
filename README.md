@@ -12,15 +12,15 @@ To view course deliverelables, visit the linked repositories below.
 
 
 ## Sample Apps
-1.  [Recycler View App](Grow-With-Google-Scholarship---Android-Dev-Track/Recycler View App/README.md)
-2.  [Intent App](Grow-With-Google-Scholarship---Android-Dev-Track/Intent App/README.md)
-3.  [Github Query App](Grow-With-Google-Scholarship---Android-Dev-Track/Github Query App/README.md)
-4.  [Music Visualizer App](Grow-With-Google-Scholarship---Android-Dev-Track/Music Visualizer App/README.md)
-5.  [Waitlist App](Grow-With-Google-Scholarship---Android-Dev-Track/Waitlist App/README.md)
-6.  [Droid Study App](Grow-With-Google-Scholarship---Android-Dev-Track/Droid Study App/README.md)
-7.  [ToDo App](Grow-With-Google-Scholarship---Android-Dev-Track/ToDo App/README.md)
-8.  [Water Hydration App](Grow-With-Google-Scholarship---Android-Dev-Track/Water Hydration App/README.md)
-9.  [Boarding Pass App](Grow-With-Google-Scholarship---Android-Dev-Track/Boarding Pass App/README.md)
-10. [Style Guide App](Grow-With-Google-Scholarship---Android-Dev-Track/Style Guide App/README.md)
+1.  [Recycler View App](https://github.com/codeamt/Grow-With-Google-Scholarship---Android-Dev-Track/Recycler View App/README.md)
+2.  [Intent App](https://github.com/codeamt/Grow-With-Google-Scholarship---Android-Dev-Track/Intent App/README.md)
+3.  [Github Query App](https://github.com/codeamt/Grow-With-Google-Scholarship---Android-Dev-Track/Github Query App/README.md)
+4.  [Music Visualizer App](https://github.com/codeamt/Grow-With-Google-Scholarship---Android-Dev-Track/Music Visualizer App/README.md)
+5.  [Waitlist App](https://github.com/codeamt/Grow-With-Google-Scholarship---Android-Dev-Track/Waitlist App/README.md)
+6.  [Droid Study App](https://github.com/codeamt/Grow-With-Google-Scholarship---Android-Dev-Track/Droid Study App/README.md)
+7.  [ToDo App](https://github.com/codeamt/Grow-With-Google-Scholarship---Android-Dev-Track/ToDo App/README.md)
+8.  [Water Hydration App](https://github.com/codeamt/Grow-With-Google-Scholarship---Android-Dev-Track/Water Hydration App/README.md)
+9.  [Boarding Pass App](https://github.com/codeamt/Grow-With-Google-Scholarship---Android-Dev-Track/Boarding Pass App/README.md)
+10. [Style Guide App](https://github.com/codeamt/Grow-With-Google-Scholarship---Android-Dev-Track/Style Guide App/README.md)
 
 ## Capstone Project: Sunshine App
