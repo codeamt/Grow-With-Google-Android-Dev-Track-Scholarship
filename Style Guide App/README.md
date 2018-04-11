@@ -1,7 +1,7 @@
 ## Style Guide App  
 This toy app functions like a style guide to remind developers of different themes, colors, and layouts for a project.
 
-![Green App Demo](https://user-images.githubusercontent.com/7875284/38591485-f12be14e-3d04-11e8-8487-cd2625b861d9.gif)
+![Green App Demo](https://ucarecdn.com/977364b0-e4e7-4153-9d68-a40f6eef70d7/)
 
 ## Learning Objective(s):
 
