@@ -1,4 +1,4 @@
-## Green – A Recycler View App
+## Implicit Activity App
 
 This sample app uses a clean linear layout to provide users a way to handle every day activities, like: visiting an external site, sharing content, opening a map, and sending an email.
  
