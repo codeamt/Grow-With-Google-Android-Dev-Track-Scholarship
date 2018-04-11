@@ -1,4 +1,4 @@
-# Sunshine App: Course Capstone Project  
+# Course Capstone Project: Sunshine Weather App
 The app pulls weather data from an external API using a content provider interface built from scratch. A two-week forecast provides ample time to plan for inclement and beautiful weather, and daily forecasts go deeper into weather details such as barometric pressure, precipitation, etc. Lastly, to make temperature data more accessible to international and domestic users, alike, the app offers end users the option of changing their location and temperature scale to preference. (See user story below.) 
 
 ![Green App Demo](https://user-images.githubusercontent.com/7875284/38591485-f12be14e-3d04-11e8-8487-cd2625b861d9.gif)
