@@ -1,24 +1,36 @@
-# (Grow With Google) Google Udacity Scholarship - Android Development Track
-Course deliverables from the Google Udacity Scholarship for Android Developers.
+## ToDo App 
+This sample app puts a slight twist on the traditional "ToDo List" app by enabling end users to prioritize the tasks on their list.   
 
-![Grow With Google Scholarship Badge](http://bsft.io/x/qej8cn?uid=41c82f6d-b119-4efd-96d1-bdd6d12d0d04&mid=71bc16dc-ecd8-4745-84dd-b637289091e0&txnid=47d38ef5-bd0a-4e05-b0e9-385b572f8bd1 =350x350)
+![Green App Demo](https://user-images.githubusercontent.com/7875284/38591485-f12be14e-3d04-11e8-8487-cd2625b861d9.gif)
 
-## About the Challenge Course
-The Grow With Google Course, in partnership with Udacity, presented a 3 month challenge to complete 13 lessons, 10 sample apps and a final Capstone App project, entitled Sunshine. Throughout the process, we received mentorship TAs and moral encouragement from fellow classmates in our our course Slack.
+## Learning Objective(s):
 
-To view course deliverelables, visit the linked repositories below.
+- [x] Creating a TaskManager class that extends from the Content Provider Interface and implements the onCreate function from the Android SDK
+- [x] Registering the Content Provider in the Android Manifest  
+- [x] Defining URIs and the different data types it can return for the Content Resolver
+- [x] Add URIs and string constants to db Contract class
+- [x] Implement a URIMatcher class to match URI patterns to integers 
+- [x] Implement the 4 CRUD methods for the Content Resolver
+
+## Best Practices and Takeaways 
+
+- Designing Floating Action Buttons (FABs)
+-	Terminology for Data Design (e.g., directories, items, etc.)
+-	Using wildcard characters to parameterize your queries
+-	More on unit testing in Android Studio
+-	Understanding end-to-end flow from DB to Resolver and UI
+-	Mimetypes and implementing provider methods – CRUD + onCreate and getType
+- Implementing the Tinder-like swipe to delete code
+
+## App Dependencies: 
+-	'com.android.support:appcompat-v7:25.1.0’
+-	'com.android.support:recyclerview-v7:25.1.0’
+-	'com.android.support:design:25.1.0’
+-	'com.android.support.constraint:constraint-layout:1.0.0-beta4’
+-	'junit:junit:4.12’ (test compiling)'
+-	'com.android.support:support-annotations:25.1.0'
+-	'com.android.support.test:runner:0.5'
+-	'com.android.support.test:rules:0.5'
 
 
-## Sample Apps
-1.  Recycler View App
-2.  Intent App
-3.  Github Query App
-4.  Music Visualizer App
-5.  Waitlist App
-6.  Droid Study App
-7.  ToDo App
-8.  Water Hydration App
-9.  Boarding Pass App
-10. Style Guide App
-
-## Capstone Project: Sunshine App
+**Target SDK Version:** 25
