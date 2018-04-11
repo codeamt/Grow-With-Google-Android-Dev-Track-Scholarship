@@ -1,7 +1,7 @@
 ## Waitlist App
 This sample app functions as a virtual restaurant host/hostess, indexing a waitlist and recording guest names and party size in the process.  
 
-![Green App Demo](https://user-images.githubusercontent.com/7875284/38591485-f12be14e-3d04-11e8-8487-cd2625b861d9.gif)
+![Green App Demo](https://ucarecdn.com/102eeaf8-f5dc-4c49-bca2-9bcf4fa8a762/)
 
 ## Learning Objective(s):
 
