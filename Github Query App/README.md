@@ -2,7 +2,7 @@
 
 This sample app demonstrates how to use URIs to query data from external sources and display the data object responses using a clean UI in android.
 
-![Green App Demo](https://user-images.githubusercontent.com/7875284/38591485-f12be14e-3d04-11e8-8487-cd2625b861d9.gif)
+![Green App Demo](https://ucarecdn.com/70d8c7a6-c730-461d-bd72-2e184a588cf9/)
 
 ## Learning Objective(s):
 
