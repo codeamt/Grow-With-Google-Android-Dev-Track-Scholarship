@@ -1,24 +1,29 @@
-# (Grow With Google) Google Udacity Scholarship - Android Development Track
-Course deliverables from the Google Udacity Scholarship for Android Developers.
+## Water Hydration App  
+This sample app helps users live their best life by scheduling and sending notifications to drink a glass of water within a specified time interval (15 minutes), if their phone is charging   
 
-![Grow With Google Scholarship Badge](http://bsft.io/x/qej8cn?uid=41c82f6d-b119-4efd-96d1-bdd6d12d0d04&mid=71bc16dc-ecd8-4745-84dd-b637289091e0&txnid=47d38ef5-bd0a-4e05-b0e9-385b572f8bd1 =350x350)
+![Green App Demo](https://user-images.githubusercontent.com/7875284/38591485-f12be14e-3d04-11e8-8487-cd2625b861d9.gif)
 
-## About the Challenge Course
-The Grow With Google Course, in partnership with Udacity, presented a 3 month challenge to complete 13 lessons, 10 sample apps and a final Capstone App project, entitled Sunshine. Throughout the process, we received mentorship TAs and moral encouragement from fellow classmates in our our course Slack.
+## Learning Objective(s):
 
-To view course deliverelables, visit the linked repositories below.
+- [x] Adding an Intent Service (Background Job) to an Android App
+- [x] Create a button that triggers a Notification/Pending Intent  
+- [x] Add Actions to a Notification
+- [x] Adding a JobService to an Android App
+- [x] Use FirebaseJobDispatcher class to schedule a background job
+- [x] Implement and register a System Broadcast Intent for device change (phone charging)
 
+## Best Practices and Takeaways 
 
-## Sample Apps
-1.  Recycler View App
-2.  Intent App
-3.  Github Query App
-4.  Music Visualizer App
-5.  Waitlist App
-6.  Droid Study App
-7.  ToDo App
-8.  Water Hydration App
-9.  Boarding Pass App
-10. Style Guide App
+-	Learning about the Service lifecycle, how this component helps separate threading concerns, and how to run tasks efficiently in the background
+-	Appropriate use cases for a Service component verses a Loader component 
+-	Differentiating Foreground Services from Intent (Background) Services, and understanding priority levels of different Services in lieu of memory constraints
+-	Ways and corresponding methods for starting a Service
+-	Intro to the design guide, channels and badges for Notifications (Pending Intents) as well as useful applications that build on recent API releases (Android Oreo) and the diffusion of Wearable technologies
+-	Installing the necessary SDKs to run Firebase, setting up Android Debug Bridge (ADB) to simulate device changes, and helpful ADB terminal commands
+-	Learning about static and dynamic Broadcast Intents, flag sets and how Intent Filters work
 
-## Capstone Project: Sunshine App
+## App Dependencies: 
+- 'com.android.support:appcompat-v7:26.0.1'
+-	'com.firebase:firebase-jobdispatcher:0.5.2'
+
+**Target SDK Version:** 26
