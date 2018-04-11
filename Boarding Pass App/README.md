@@ -1,24 +1,24 @@
-# (Grow With Google) Google Udacity Scholarship - Android Development Track
-Course deliverables from the Google Udacity Scholarship for Android Developers.
+## Boarding Pass App  
+The toy app from this sprint is a clean Boarding Pass app to explore concepts like responsiveness and accessibility.
 
-![Grow With Google Scholarship Badge](http://bsft.io/x/qej8cn?uid=41c82f6d-b119-4efd-96d1-bdd6d12d0d04&mid=71bc16dc-ecd8-4745-84dd-b637289091e0&txnid=47d38ef5-bd0a-4e05-b0e9-385b572f8bd1 =350x350)
+![Green App Demo](https://user-images.githubusercontent.com/7875284/38591485-f12be14e-3d04-11e8-8487-cd2625b861d9.gif)
 
-## About the Challenge Course
-The Grow With Google Course, in partnership with Udacity, presented a 3 month challenge to complete 13 lessons, 10 sample apps and a final Capstone App project, entitled Sunshine. Throughout the process, we received mentorship TAs and moral encouragement from fellow classmates in our our course Slack.
+## Learning Objective(s):
 
-To view course deliverelables, visit the linked repositories below.
+- [x] Build a Constraint Scrolling Layout along with nested views and vector images
+- [x] Create a data binding class to link the UI to constant values
+- [x] Implement a Landscape layout to make the app responsive 
 
+## Best Practices and Takeaways 
 
-## Sample Apps
-1.  Recycler View App
-2.  Intent App
-3.  Github Query App
-4.  Music Visualizer App
-5.  Waitlist App
-6.  Droid Study App
-7.  ToDo App
-8.  Water Hydration App
-9.  Boarding Pass App
-10. Style Guide App
+-	Understanding how View Groups and Constraint Layout allow for more complex (but still clean) UIs
+-	A more in-depth look at different styling attributes for various types of Views
+-	Learning more about Android Studio’s Hierarchy Viewer and how tree depth and View nesting impact app rendering speed during runtime performance
+-	Using locale files to make apps more accessible to international end users
+-	Structuring layout directories and XML files to improve responsiveness
 
-## Capstone Project: Sunshine App
+## App Dependencies: 
+-	'com.android.support:appcompat-v7:25.1.0'
+-	'com.android.support.constraint:constraint-layout:1.0.0-beta4'
+
+**Target SDK Version:** 25
