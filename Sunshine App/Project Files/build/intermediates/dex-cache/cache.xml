@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/AnnMargaret/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta3/constraint-layout-solver-1.0.0-beta3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="22c1e9d26251df254de7cc9dee01f5f134b10eba">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Sunshine-student copy/S12.04-Exercise-ResourceQualifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta3_63bcbde0aa60f2ead85b5abaf9cf45a6f8cafae1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/.android/build-cache/8817fb1a27967d92ecca0da58294ead108ee529c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b81d40d208a3308c8e81b2cccd3054238a13d140">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Sunshine App/Java Version/app/build/intermediates/pre-dexed/debug/classes_4b84dfab8252b129fff0ec6a820fa620840bc9a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta3/constraint-layout-solver-1.0.0-beta3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="22c1e9d26251df254de7cc9dee01f5f134b10eba">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Sunshine App/Java Version/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-beta3_63bcbde0aa60f2ead85b5abaf9cf45a6f8cafae1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AnnMargaret/.android/build-cache/deb3feb84eecb50d844cc87bb3710574284c9ecc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9bcc5d07e3c05d87798e602ad1e6d2a28ce0782d">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Sunshine-student copy/S12.04-Exercise-ResourceQualifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e50b9b85597f53d5d65d754a05dc416d5c97189/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AnnMargaret/.android/build-cache/8817fb1a27967d92ecca0da58294ead108ee529c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b81d40d208a3308c8e81b2cccd3054238a13d140">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Sunshine-student copy/S12.04-Exercise-ResourceQualifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b84dfab8252b129fff0ec6a820fa620840bc9a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/My Passport for Mac/ud851-Sunshine-student copy/S12.04-Exercise-ResourceQualifiers/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Sunshine-student copy/S12.04-Exercise-ResourceQualifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0a2237f7ef471176d6fa111fe7072904c00d3342/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AnnMargaret/.android/build-cache/ca225bd9d56368ae4131434681a129ddfe26ea89/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Sunshine-student copy/S12.04-Exercise-ResourceQualifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6019e79762f9c0ca15fd1d848b59f11b49e962bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/.android/build-cache/ca225bd9d56368ae4131434681a129ddfe26ea89/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Sunshine App/Java Version/app/build/intermediates/pre-dexed/debug/classes_6019e79762f9c0ca15fd1d848b59f11b49e962bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/.android/build-cache/deb3feb84eecb50d844cc87bb3710574284c9ecc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9bcc5d07e3c05d87798e602ad1e6d2a28ce0782d">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Sunshine App/Java Version/app/build/intermediates/pre-dexed/debug/classes_5e50b9b85597f53d5d65d754a05dc416d5c97189.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/.android/build-cache/40026eebedc3d3fef347782998c7d9bb4472bebd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a7d1d5f89815c94a839ffd4de5f083f5e166d9a5">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Sunshine App/Java Version/app/build/intermediates/pre-dexed/debug/classes_38738a86167b29755034ec09f72e719f2429ae11.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/My Passport for Mac/ud851-Sunshine-student copy/S12.04-Exercise-ResourceQualifiers/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f5fd017befd14a96ac07af4cf5ebce2fa824da">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Sunshine-student copy/S12.04-Exercise-ResourceQualifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_415d6f5095ec069045998c2abb9457a446dfe727/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AnnMargaret/.android/build-cache/40026eebedc3d3fef347782998c7d9bb4472bebd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a7d1d5f89815c94a839ffd4de5f083f5e166d9a5">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Sunshine-student copy/S12.04-Exercise-ResourceQualifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_38738a86167b29755034ec09f72e719f2429ae11/classes.dex" />
+    </item>
+
+</items>

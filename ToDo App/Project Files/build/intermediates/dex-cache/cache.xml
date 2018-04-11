@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/ToDo App/Java Version/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_2678ff2ad1abbf8c306d1a8f5778ca3c3444a0c8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AnnMargaret/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson09-ToDo-List/T09.07-Exercise-SwipeToDelete/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_2678ff2ad1abbf8c306d1a8f5778ca3c3444a0c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AnnMargaret/.android/build-cache/853fa44faf6216b4b2fdc4c490c1da11de7c8039/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson09-ToDo-List/T09.07-Exercise-SwipeToDelete/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e2e5e19cefce9931fe3a237febffac7302fc3c60/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/.android/build-cache/b4ae1a45f522ea46dd87f89b6524e25df35540db/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/ToDo App/Java Version/app/build/intermediates/pre-dexed/debug/classes_821d71c4891c5375191cd65f4ef5e6ce5eab37c9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AnnMargaret/.android/build-cache/b4ae1a45f522ea46dd87f89b6524e25df35540db/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson09-ToDo-List/T09.07-Exercise-SwipeToDelete/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_821d71c4891c5375191cd65f4ef5e6ce5eab37c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AnnMargaret/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson09-ToDo-List/T09.07-Exercise-SwipeToDelete/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta4_c6a350d50c3efa184493c9184f96db55ea43941c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/ToDo App/Java Version/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-beta4_c6a350d50c3efa184493c9184f96db55ea43941c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/.android/build-cache/e7ca85fb3d522ce3e22f44dc31c667903bccef43/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/ToDo App/Java Version/app/build/intermediates/pre-dexed/debug/classes_abfdf615935f460664c133cf1e85e87e7fa8f816.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AnnMargaret/.android/build-cache/7770a6119667887f2e75c18a27d6038a8714079f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson09-ToDo-List/T09.07-Exercise-SwipeToDelete/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d85a7758eac7356b372a6065906861a58041885/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AnnMargaret/.android/build-cache/f58a1288f22f64fae34e5f1d206139264ef0ed1d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson09-ToDo-List/T09.07-Exercise-SwipeToDelete/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bacc5329e29398a8143ba508d298041ba09cfa7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/.android/build-cache/f58a1288f22f64fae34e5f1d206139264ef0ed1d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/ToDo App/Java Version/app/build/intermediates/pre-dexed/debug/classes_bacc5329e29398a8143ba508d298041ba09cfa7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/.android/build-cache/7770a6119667887f2e75c18a27d6038a8714079f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/ToDo App/Java Version/app/build/intermediates/pre-dexed/debug/classes_4d85a7758eac7356b372a6065906861a58041885.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson09-ToDo-List/T09.07-Exercise-SwipeToDelete/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6be69c5e1911c04e022d8b46939fbbdc68236145">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson09-ToDo-List/T09.07-Exercise-SwipeToDelete/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e6e0680659e76f81a90993e97750163435bf6405/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/.android/build-cache/3d54a67b64a945158c6b225877f740f92db757b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/ToDo App/Java Version/app/build/intermediates/pre-dexed/debug/classes_8211576b5d19433461b070e1ff3a445e64fcb6ff.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AnnMargaret/.android/build-cache/09d3e5324c6e49600ad1887ecad0877effad0f12/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson09-ToDo-List/T09.07-Exercise-SwipeToDelete/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_36dd3c08eab59359d1888e3864f40f39b87492a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AnnMargaret/.android/build-cache/d670b4fa69d44e7d9cb6079f8e3a401b18977a98/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson09-ToDo-List/T09.07-Exercise-SwipeToDelete/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3ec5b2049ccf6200fa81669bcce12f968ee88b75/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/.android/build-cache/e81c988898a7d202b7253ee1a8467e3e87ecdfe7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/ToDo App/Java Version/app/build/intermediates/pre-dexed/debug/classes_250a6d22c0a2fd6059073800db0f2505ee3261e0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AnnMargaret/.android/build-cache/20e7e86dedaf78a3da4179c60ff0d01f22461fa8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson09-ToDo-List/T09.07-Exercise-SwipeToDelete/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa6dd8a38899fa93768ec95ad9498b7fa5c62193/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/.android/build-cache/74a14660a9e01944c1d8dbc2c7c121cf0286cbe9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/ToDo App/Java Version/app/build/intermediates/pre-dexed/debug/classes_0895bfc8f21b58307a53ea58cb6da07d688381bc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AnnMargaret/.android/build-cache/3d54a67b64a945158c6b225877f740f92db757b7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson09-ToDo-List/T09.07-Exercise-SwipeToDelete/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8211576b5d19433461b070e1ff3a445e64fcb6ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/.android/build-cache/20e7e86dedaf78a3da4179c60ff0d01f22461fa8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/ToDo App/Java Version/app/build/intermediates/pre-dexed/debug/classes_aa6dd8a38899fa93768ec95ad9498b7fa5c62193.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AnnMargaret/.android/build-cache/74a14660a9e01944c1d8dbc2c7c121cf0286cbe9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson09-ToDo-List/T09.07-Exercise-SwipeToDelete/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0895bfc8f21b58307a53ea58cb6da07d688381bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/.android/build-cache/09d3e5324c6e49600ad1887ecad0877effad0f12/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/ToDo App/Java Version/app/build/intermediates/pre-dexed/debug/classes_36dd3c08eab59359d1888e3864f40f39b87492a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/.android/build-cache/d670b4fa69d44e7d9cb6079f8e3a401b18977a98/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/ToDo App/Java Version/app/build/intermediates/pre-dexed/debug/classes_3ec5b2049ccf6200fa81669bcce12f968ee88b75.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AnnMargaret/.android/build-cache/e7ca85fb3d522ce3e22f44dc31c667903bccef43/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson09-ToDo-List/T09.07-Exercise-SwipeToDelete/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_abfdf615935f460664c133cf1e85e87e7fa8f816/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AnnMargaret/.android/build-cache/b3b77ecc3180afd01470d2140cfca2185a8f8e9b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson09-ToDo-List/T09.07-Exercise-SwipeToDelete/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1e4b2406693a18f295cb62599f66a79f501d1010/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/.android/build-cache/8b8723a2e3fbea884d449a84859f27d89825b5da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/ToDo App/Java Version/app/build/intermediates/pre-dexed/debug/classes_f0ccb503fece8064988a8e3e54868f668c668398.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/.android/build-cache/b3b77ecc3180afd01470d2140cfca2185a8f8e9b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/ToDo App/Java Version/app/build/intermediates/pre-dexed/debug/classes_1e4b2406693a18f295cb62599f66a79f501d1010.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson09-ToDo-List/T09.07-Exercise-SwipeToDelete/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson09-ToDo-List/T09.07-Exercise-SwipeToDelete/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0cb91405eb496f8d76ae23f1d85fd6f48589ce64/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/.android/build-cache/853fa44faf6216b4b2fdc4c490c1da11de7c8039/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/ToDo App/Java Version/app/build/intermediates/pre-dexed/debug/classes_e2e5e19cefce9931fe3a237febffac7302fc3c60.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AnnMargaret/.android/build-cache/8b8723a2e3fbea884d449a84859f27d89825b5da/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson09-ToDo-List/T09.07-Exercise-SwipeToDelete/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f0ccb503fece8064988a8e3e54868f668c668398/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AnnMargaret/.android/build-cache/e81c988898a7d202b7253ee1a8467e3e87ecdfe7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson09-ToDo-List/T09.07-Exercise-SwipeToDelete/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_250a6d22c0a2fd6059073800db0f2505ee3261e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.3.3/baseLibrary-2.3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb3399988a52099b0127e27fb5bed666eca86ace">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/ToDo App/Java Version/app/build/intermediates/pre-dexed/debug/baseLibrary-2.3.3_a13c89973c1c8bce4f7e9a2f1b7ba7e93f86f6c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/.android/build-cache/7e82350f166105cc2b5187c36e5961f8dec0adda/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/ToDo App/Java Version/app/build/intermediates/pre-dexed/debug/classes_d3cc8dc2a2b62e88d51f6f183dcfe61388aca74b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AnnMargaret/.android/build-cache/7e82350f166105cc2b5187c36e5961f8dec0adda/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson09-ToDo-List/T09.07-Exercise-SwipeToDelete/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d3cc8dc2a2b62e88d51f6f183dcfe61388aca74b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/.android/build-cache/2332568052afda268d85cdaa927a08babf4c8227/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/ToDo App/Java Version/app/build/intermediates/pre-dexed/debug/classes_52b8a1249ba541666d43e2b5edbec5d5c43d93cf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AnnMargaret/.android/build-cache/2332568052afda268d85cdaa927a08babf4c8227/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson09-ToDo-List/T09.07-Exercise-SwipeToDelete/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52b8a1249ba541666d43e2b5edbec5d5c43d93cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.3.3/baseLibrary-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb3399988a52099b0127e27fb5bed666eca86ace">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson09-ToDo-List/T09.07-Exercise-SwipeToDelete/app/build/intermediates/transforms/dex/debug/folders/1000/10/baseLibrary-2.3.3_a13c89973c1c8bce4f7e9a2f1b7ba7e93f86f6c7/classes.dex" />
+    </item>
+
+</items>

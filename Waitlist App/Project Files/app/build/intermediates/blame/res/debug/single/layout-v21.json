@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson07-Waitlist/T07.06-Exercise-RemoveGuests/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson07-Waitlist/T07.06-Exercise-RemoveGuests/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson07-Waitlist/T07.06-Exercise-RemoveGuests/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson07-Waitlist/T07.06-Exercise-RemoveGuests/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson07-Waitlist/T07.06-Exercise-RemoveGuests/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson07-Waitlist/T07.06-Exercise-RemoveGuests/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/AnnMargaret/Desktop/Android Projects/Waitlist App/Java Version/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/AnnMargaret/Desktop/Android Projects/Waitlist App/Java Version/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/AnnMargaret/Desktop/Android Projects/Waitlist App/Java Version/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/AnnMargaret/Desktop/Android Projects/Waitlist App/Java Version/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/AnnMargaret/Desktop/Android Projects/Waitlist App/Java Version/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/AnnMargaret/Desktop/Android Projects/Waitlist App/Java Version/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson07-Waitlist/T07.06-Exercise-RemoveGuests/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson07-Waitlist/T07.06-Exercise-RemoveGuests/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/AnnMargaret/Desktop/Android Projects/Waitlist App/Java Version/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/AnnMargaret/Desktop/Android Projects/Waitlist App/Java Version/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

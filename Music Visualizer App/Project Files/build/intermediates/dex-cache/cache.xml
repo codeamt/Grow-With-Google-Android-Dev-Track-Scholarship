@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_ae893875f5e3067a15f4160387423234dea2f39a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_95961ff340bed6b5eb073399a47f103d8bb5cfa3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Music Visualizer App/Java Version/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Music Visualizer App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_4fcc9d2dbbcfacc196c428494118e1139aeabe98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Music Visualizer App/Java Version/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Music Visualizer App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_1a14865cfcdf8ffde2506c865d0cc28bf5e2ffc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_2678ff2ad1abbf8c306d1a8f5778ca3c3444a0c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Music Visualizer App/Java Version/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Music Visualizer App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_f4321367e80aef9f2377fce06e252447760c0ae5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Music Visualizer App/Java Version/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Music Visualizer App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_6a3a983863d1b6997bb32709ef2f334e79b291c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Music Visualizer App/Java Version/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Music Visualizer App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_441bb3fa5fec460ac28ca7653aa0cfdba9d59c16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Music Visualizer App/Java Version/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Music Visualizer App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_7d6759cac816e61ce8e6f767594dd003b7e7fdfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/exploded-aar/com.android.support/preference-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="378c0fefdd7adedd0ea74d7607b3d4a251b29d78">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/pre-dexed/debug/com.android.support-preference-v7-25.1.0_1e1a2319e80386be187fee0c5c1fbca92f9d4042.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_9e4140457a1290f9086b811b9b5545ea4f95d9f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_ea8938a9f3ce50bdb951046d5b0340590ffca00f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_875d132c54265c7da913d995cde0a91f67a19cdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Music Visualizer App/Java Version/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Music Visualizer App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_cadeff68278cf5b8c50f353a7d0ae1eff54f1f42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_1c33f18d557bf9da2ab8c64c1fd8402ccf7c36e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Music Visualizer App/Java Version/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Music Visualizer App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_534db9d4911fce0a6f2b31d0d2135518164d023b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Music Visualizer App/Java Version/app/build/intermediates/exploded-aar/com.android.support/preference-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="378c0fefdd7adedd0ea74d7607b3d4a251b29d78">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Music Visualizer App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-preference-v7-25.1.0_30f6db04d9de04939dd6b5c53c1b91ac721b7c56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_f504ce640b1d3c0bf42acc0a0e893b903fccd750.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_60b14f8bb92a18f6d04c2630bf6e9943d42e0b33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Music Visualizer App/Java Version/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Music Visualizer App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_87d0417fd9ae4b1cfbc39bb8ddd9f9ea785497b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Music Visualizer App/Java Version/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Music Visualizer App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_0b75f98fe91c133e3824185dfd21367d76f7a8d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_7a692da0a3d063b5888bce33bfc3eaf4225e3c76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_5a9f331b979b7efeadfb70bd979fdbacdd7c01e8.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson07-Waitlist/T07.06-Exercise-RemoveGuests/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson07-Waitlist/T07.06-Exercise-RemoveGuests/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_99fff625292f6548118c104562d63b311bcbcf6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson07-Waitlist/T07.06-Exercise-RemoveGuests/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson07-Waitlist/T07.06-Exercise-RemoveGuests/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_ce2d1652bea60b35a95c40389b2962a937cac8c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Waitlist App/Java Version/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Waitlist App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_c9fd776ceff3bee2bd0a32a81ec1c42835272486.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson07-Waitlist/T07.06-Exercise-RemoveGuests/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_2678ff2ad1abbf8c306d1a8f5778ca3c3444a0c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson07-Waitlist/T07.06-Exercise-RemoveGuests/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson07-Waitlist/T07.06-Exercise-RemoveGuests/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_9dceca8f372c7b8b973c91e8088e2feb0d575c83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson07-Waitlist/T07.06-Exercise-RemoveGuests/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson07-Waitlist/T07.06-Exercise-RemoveGuests/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_72f456d900e07fbd46b13b851b77d4f69633df1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson07-Waitlist/T07.06-Exercise-RemoveGuests/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson07-Waitlist/T07.06-Exercise-RemoveGuests/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_10c57aab67319febbb2f57ef706a9f6592634100.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Waitlist App/Java Version/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Waitlist App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_ae73fd3e9da9472228db2860b3a884d7a73cf677.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Waitlist App/Java Version/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Waitlist App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_749818154c6d4e7007d4c71fcb26d563a0d75d8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Waitlist App/Java Version/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Waitlist App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_ef4b483d79b3fc95e689edc73dcaaa22876322bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Waitlist App/Java Version/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Waitlist App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_44eb6ebc9843391100e6664b9257ae585ec37eb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson07-Waitlist/T07.06-Exercise-RemoveGuests/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson07-Waitlist/T07.06-Exercise-RemoveGuests/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_a04dac6d0e9dd4dddb780cb099dbe81981f97252.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Waitlist App/Java Version/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Waitlist App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_516132026d197c52c34426201a25ed06b6eb02a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Waitlist App/Java Version/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Waitlist App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_f4d4388e9a61b963539cb77bdefd38258263bf99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Waitlist App/Java Version/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Waitlist App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_f8f69f8d21ffc4a1df04ab53fc184ec312bd3a29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson07-Waitlist/T07.06-Exercise-RemoveGuests/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson07-Waitlist/T07.06-Exercise-RemoveGuests/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_dfb56f3f52691c1a5a0caf395156b3ead0c04676.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Waitlist App/Java Version/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Waitlist App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_e5cfb2ad021356b42d963cb83d1bfe72c14de35d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson07-Waitlist/T07.06-Exercise-RemoveGuests/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson07-Waitlist/T07.06-Exercise-RemoveGuests/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_fe61f5a4b88841ffad55e563c2c2163ce460af21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Waitlist App/Java Version/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Waitlist App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_e30c6688a96d65f6feac82290062f52949a8da73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson07-Waitlist/T07.06-Exercise-RemoveGuests/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson07-Waitlist/T07.06-Exercise-RemoveGuests/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_1f93c259a8664a9291f36ade1591d2ba19d8bee4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson07-Waitlist/T07.06-Exercise-RemoveGuests/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson07-Waitlist/T07.06-Exercise-RemoveGuests/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_f0be26cf1df900b3de9803bbc38e5f5bc39934c5.jar" />
+    </item>
+
+</items>

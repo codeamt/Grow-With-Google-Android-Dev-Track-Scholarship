@@ -1,0 +1,4 @@
+#Wed Mar 28 23:20:46 EDT 2018
+base.0=/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson10-Hydration-Reminder/T10.06-Exercise-StickyBroadcastForCharging/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6
+renamed.0=classes.dex
+file.0=/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson10-Hydration-Reminder/T10.06-Exercise-StickyBroadcastForCharging/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex

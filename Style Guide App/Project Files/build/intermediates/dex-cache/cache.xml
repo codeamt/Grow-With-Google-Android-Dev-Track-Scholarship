@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Style Guide App/Java Version/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Style Guide App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_fdff520d9c06453aa99558dd8e60feca4ef7cb72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson12-Visual-Polish/T12.04-Exercise-TouchSelector/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_2678ff2ad1abbf8c306d1a8f5778ca3c3444a0c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson12-Visual-Polish/T12.04-Exercise-TouchSelector/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson12-Visual-Polish/T12.04-Exercise-TouchSelector/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_c2ecc0cc059af1b35d867801c30da503057d8aca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Style Guide App/Java Version/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Style Guide App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_56bf7c7705362c2870f52e7e3408dd599def03b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Style Guide App/Java Version/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Style Guide App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_dd60d0f7be0ad73d46003dcad185f4e05139285f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson12-Visual-Polish/T12.04-Exercise-TouchSelector/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson12-Visual-Polish/T12.04-Exercise-TouchSelector/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_af27b84f30e4a32a52cdd6b379e7a56c785e6484.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson12-Visual-Polish/T12.04-Exercise-TouchSelector/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson12-Visual-Polish/T12.04-Exercise-TouchSelector/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_8e0c3f2fff355b9f2352f79f9fb4074079858a3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson12-Visual-Polish/T12.04-Exercise-TouchSelector/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson12-Visual-Polish/T12.04-Exercise-TouchSelector/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_c17aeefa4a22e12eeee9bc20a7dd19c26087c25d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Style Guide App/Java Version/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Style Guide App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_5cb4788f21bb168fd069f2d9e4d1ee29e6432959.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Style Guide App/Java Version/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Style Guide App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_528e68e0dd0f4452a51a6a7334d07407f2020bb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson12-Visual-Polish/T12.04-Exercise-TouchSelector/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson12-Visual-Polish/T12.04-Exercise-TouchSelector/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_7fb296a974c58c935caebf99e6031e979d89492c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson12-Visual-Polish/T12.04-Exercise-TouchSelector/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson12-Visual-Polish/T12.04-Exercise-TouchSelector/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_43b1f92fba8a08ce724904c2d50deb0f16fce486.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Style Guide App/Java Version/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Style Guide App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_26ea76405f3b25cd95c94f73bf1dc7b457b3cc51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Style Guide App/Java Version/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Style Guide App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_f10b0c57db29f0ca1766a88b4c1f366c7db5c91c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson12-Visual-Polish/T12.04-Exercise-TouchSelector/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson12-Visual-Polish/T12.04-Exercise-TouchSelector/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_89357363f2d6f7174c1fe5877b36ad629a7a692c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson12-Visual-Polish/T12.04-Exercise-TouchSelector/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson12-Visual-Polish/T12.04-Exercise-TouchSelector/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_59efca890b4c8d7f3907aec075b4aa24285041e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Style Guide App/Java Version/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Style Guide App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_82045f362d8179c95e3827c647e1b4012893fd62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Style Guide App/Java Version/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Style Guide App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_090e766416154c648bea497b5bd77f2cc56c8923.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson12-Visual-Polish/T12.04-Exercise-TouchSelector/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson12-Visual-Polish/T12.04-Exercise-TouchSelector/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_2263e96634571d68e3c9772d8e3872518ab979cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Style Guide App/Java Version/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Style Guide App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_a58995183f11421aa8b8df31c761123eb13fec36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson12-Visual-Polish/T12.04-Exercise-TouchSelector/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson12-Visual-Polish/T12.04-Exercise-TouchSelector/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_20503bcc0a78bb3951b319cad09458b67378e9f6.jar" />
+    </item>
+
+</items>

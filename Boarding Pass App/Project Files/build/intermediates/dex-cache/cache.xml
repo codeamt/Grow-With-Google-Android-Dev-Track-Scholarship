@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Boarding Pass App/Java Version/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Boarding Pass App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_6b03aa36de02e8fd7afee6ca032b4ea9737f8905.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson11-Completeing-The-UI/T11.03-Exercise-LandscapeLayout/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson11-Completeing-The-UI/T11.03-Exercise-LandscapeLayout/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-beta4_4e150d7c961ffaae7e678578fe99e6c6dd976024.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson11-Completeing-The-UI/T11.03-Exercise-LandscapeLayout/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_2678ff2ad1abbf8c306d1a8f5778ca3c3444a0c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Boarding Pass App/Java Version/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Boarding Pass App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_e146346262507aabedd6aecacbc4743d53c1d451.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson11-Completeing-The-UI/T11.03-Exercise-LandscapeLayout/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson11-Completeing-The-UI/T11.03-Exercise-LandscapeLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_044fcc81797544f45ae10bb9965703e554f5ffd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson11-Completeing-The-UI/T11.03-Exercise-LandscapeLayout/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-beta4_c6a350d50c3efa184493c9184f96db55ea43941c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson11-Completeing-The-UI/T11.03-Exercise-LandscapeLayout/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson11-Completeing-The-UI/T11.03-Exercise-LandscapeLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_f61b6945f8bd25859a0d07ac15496a51062ca222.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson11-Completeing-The-UI/T11.03-Exercise-LandscapeLayout/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson11-Completeing-The-UI/T11.03-Exercise-LandscapeLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_f860ad5e08ce2ff7e567b05d79e2e3e1dc2c7610.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Boarding Pass App/Java Version/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Boarding Pass App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_7013f07fdd44d11d2842420f7ce86682c7fea40d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Boarding Pass App/Java Version/app/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Boarding Pass App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.databinding-library-1.2.1_7a636eab5bb8835d4faf4830b837b71016f2a5dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.2.3/b4b51d1925cdfda98fd861230c1ecb5855500129/baseLibrary-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4b51d1925cdfda98fd861230c1ecb5855500129">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson11-Completeing-The-UI/T11.03-Exercise-LandscapeLayout/app/build/intermediates/pre-dexed/debug/baseLibrary-2.2.3_3142bb36d556fa854a2a6ffe34cf91ca4b834f39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Boarding Pass App/Java Version/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Boarding Pass App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.databinding-adapters-1.2.1_d365c4f5bab4b0e64b21b66aebba4e9eade8ec9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson11-Completeing-The-UI/T11.03-Exercise-LandscapeLayout/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson11-Completeing-The-UI/T11.03-Exercise-LandscapeLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_542cf662d8b9876a7fcff6ce965a44e8419c45d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Boarding Pass App/Java Version/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Boarding Pass App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_fe709f0d940b48fadd44af809f7b4b150c32ecfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Boarding Pass App/Java Version/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Boarding Pass App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_f765f827c6707c7a7b64c67afa4eb1de91ce843c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson11-Completeing-The-UI/T11.03-Exercise-LandscapeLayout/app/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson11-Completeing-The-UI/T11.03-Exercise-LandscapeLayout/app/build/intermediates/pre-dexed/debug/com.android.databinding-library-1.2.1_8c8b9a0f05fecf66454d4f1fa6ec87b06b43eccb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Boarding Pass App/Java Version/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Boarding Pass App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_4150ce748a9222086f28778efa68176802527b51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson11-Completeing-The-UI/T11.03-Exercise-LandscapeLayout/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson11-Completeing-The-UI/T11.03-Exercise-LandscapeLayout/app/build/intermediates/pre-dexed/debug/com.android.databinding-adapters-1.2.1_f6a7415b75cb874eb1fa83a87b40aa7ebfdfc49f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Boarding Pass App/Java Version/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Boarding Pass App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_2d17d65d728eaebb5f5034b068d8c2b4c760e99b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Boarding Pass App/Java Version/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Boarding Pass App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_31d5743638c229ac12174fb54f61b316a9877d6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson11-Completeing-The-UI/T11.03-Exercise-LandscapeLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson11-Completeing-The-UI/T11.03-Exercise-LandscapeLayout/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_a5c2653af5482f6d4b71ef8541a5ee61954ff18d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson11-Completeing-The-UI/T11.03-Exercise-LandscapeLayout/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson11-Completeing-The-UI/T11.03-Exercise-LandscapeLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_bc5cb8e83398dd608872da566dba1080bf21a37e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson11-Completeing-The-UI/T11.03-Exercise-LandscapeLayout/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson11-Completeing-The-UI/T11.03-Exercise-LandscapeLayout/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_9175dd32e77834e1d69d59b296f222d56ca6f207.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson11-Completeing-The-UI/T11.03-Exercise-LandscapeLayout/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson11-Completeing-The-UI/T11.03-Exercise-LandscapeLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_da96d17babd0d034b7651422c8aa0bb09a6e0d11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson11-Completeing-The-UI/T11.03-Exercise-LandscapeLayout/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Volumes/My Passport for Mac/ud851-Exercises-student copy/Lesson11-Completeing-The-UI/T11.03-Exercise-LandscapeLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_2c6c7f5a73321fddacafd404603fa458d5a2b42b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Boarding Pass App/Java Version/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Boarding Pass App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_9920a321551524fcfcf3c01c8499a825a174dfe4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AnnMargaret/Desktop/Android Projects/Boarding Pass App/Java Version/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/Users/AnnMargaret/Desktop/Android Projects/Boarding Pass App/Java Version/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-beta4_ebb42ea7e9951282c6705b42f9924281a4d48f8b.jar" />
+    </item>
+
+</items>
