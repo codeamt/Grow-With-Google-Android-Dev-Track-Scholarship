@@ -21,6 +21,6 @@ To view course deliverelables, visit the linked repositories below.
 7.  [ToDo App](https://github.com/codeamt/Grow-With-Google-Scholarship---Android-Dev-Track/tree/master/ToDo%20App/README.md)
 8.  [Water Hydration App](https://github.com/codeamt/Grow-With-Google-Scholarship---Android-Dev-Track/tree/master/Water%20Hydration%20App/README.md)
 9.  [Boarding Pass App](https://github.com/codeamt/Grow-With-Google-Scholarship---Android-Dev-Track/tree/master/Boarding%20Pass%20App/README.md)
-10. [Style Guide App](https://github.com/codeamt/Grow-With-Google-Scholarship---Android-Dev-Track/Style%20Guide%20App/tree/master/README.md)
+10. [Style Guide App](https://github.com/codeamt/Grow-With-Google-Scholarship---Android-Dev-Track/tree/master/Style%20Guide%20App/README.md)
 
 ## Capstone Project: Sunshine App
