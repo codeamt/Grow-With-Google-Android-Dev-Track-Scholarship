@@ -2,7 +2,7 @@
 This sample app visualizes an audio track’s frequencies and offers the end user a settings page to switch up the UI – mainly, the color of visualizer shapes – to preference.  
 
 
-![Green App Demo](https://user-images.githubusercontent.com/7875284/38591485-f12be14e-3d04-11e8-8487-cd2625b861d9.gif)
+![Green App Demo](https://ucarecdn.com/2d1bb450-57ec-4d49-acde-57d2d2753cab/)
 
 ## Learning Objective(s):
 
