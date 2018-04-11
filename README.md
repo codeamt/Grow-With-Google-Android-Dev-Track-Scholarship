@@ -24,3 +24,9 @@ To view course deliverelables, visit the linked repositories below.
 10. [Style Guide App](https://github.com/codeamt/Grow-With-Google-Scholarship---Android-Dev-Track/tree/master/Style%20Guide%20App/README.md)
 
 ## Capstone Project: Sunshine App
+
+This capstone project takes an inductive approach to learning, compiling all the lessons learnt from previous sprints to flesh out a polished weather app. View the project [here](https://github.com/codeamt/Grow-With-Google-Scholarship---Android-Dev-Track/tree/master/Sunshine%20App/README.md). 
+
+<p align="center">
+<img src="https://ucarecdn.com/83b32f2f-f7c5-41b3-8475-e72915b4634f/" width="200" height="300" title="Sunshine Main Activity">
+</p>
