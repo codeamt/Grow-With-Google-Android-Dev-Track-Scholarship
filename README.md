@@ -12,15 +12,15 @@ To view course deliverelables, visit the linked repositories below.
 
 
 ## Sample Apps
-1.  [Recycler View App](https://grow.google/developers/)
-2.  [Intent App](https://grow.google/developers/)
-3.  [Github Query App](https://grow.google/developers/)
-4.  [Music Visualizer App](https://grow.google/developers/)
-5.  [Waitlist App](https://grow.google/developers/)
-6.  [Droid Study App](https://grow.google/developers/)
-7.  [ToDo App](https://grow.google/developers/)
-8.  [Water Hydration App](https://grow.google/developers/)
-9.  [Boarding Pass App](https://grow.google/developers/)
-10. [Style Guide App](https://grow.google/developers/)
+1.  [Recycler View App](Recycler View App/README.md)
+2.  [Intent App](Intent App/README.md)
+3.  [Github Query App](Github Query App/README.md)
+4.  [Music Visualizer App](Music Visualizer App/README.md)
+5.  [Waitlist App](Waitlist App/README.md)
+6.  [Droid Study App](Droid Study App/README.md)
+7.  [ToDo App](ToDo App/README.md)
+8.  [Water Hydration App](Water Hydration App/README.md)
+9.  [Boarding Pass App](Boarding Pass App/README.md)
+10. [Style Guide App](Style Guide App/README.md)
 
 ## Capstone Project: Sunshine App
